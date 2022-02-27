@@ -1,0 +1,19 @@
+.container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.quantityRow {
+  display: flex;
+  align-items: center;
+}
+
+.quantityLabel {
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
